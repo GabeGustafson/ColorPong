@@ -6,3 +6,9 @@ Rules:
 1. Change the color of the paddle with Spacebar. You must match the color of the ball to hit it! Be careful, the ball may randomly change colors upon hitting something.
 1. You begin with 3 lives. If the ball escapes on the left side of the screen you lose a life. Lose all 3 and it's game over!
 1. As long as you stay alive your score will increase. At 10 points, the speed of the ball will increase. It will continue increasing after that every time your score doubles!
+
+![Screenshot](ColorPongImage1.png)
+Format: ![Alt Text](url)
+
+![Screenshot](ColorPongImage1.png)
+Format: ![Alt Text](url)
