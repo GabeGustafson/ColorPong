@@ -1,5 +1,5 @@
 # ColorPong
-This Website allows you to play a game of Color Pong.
+This Website was made with P5 and allows you to play a game of Color Pong.
 
 Rules:
 1. Move the paddle up and down with the mouse. You can also move sideways while staying within the lines.
