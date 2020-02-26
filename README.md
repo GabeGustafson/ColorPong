@@ -7,8 +7,6 @@ Rules:
 1. You begin with 3 lives. If the ball escapes on the left side of the screen you lose a life. Lose all 3 and it's game over!
 1. As long as you stay alive your score will increase. At 10 points, the speed of the ball will increase. It will continue increasing after that every time your score doubles!
 
-![Screenshot](ColorPongImage1.png)
-Format: ![Alt Text](url)
+![Screenshot1](ColorPongImage1.png)
 
-![Screenshot](ColorPongImage1.png)
-Format: ![Alt Text](url)
+![Screenshot2](ColorPongImage2.png)
